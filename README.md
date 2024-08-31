@@ -114,3 +114,6 @@ Welcome to the Data Scientist Roadmap! This guide is designed to help you become
 By following this plan, you will have built a strong foundation in data science, making you well-prepared for a successful career in the field. Keep learning, stay curious, and continue to build on your knowledge.
 
 Happy learning!
+
+
+© 2024 Venkata Sri Deepthi SriKotaPeetambaram | Roadmap Repository
